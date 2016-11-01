@@ -15,7 +15,12 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    //我要测试
+    //look diff
+    //测试版本
+    //分支1
     [super viewDidLoad];
+    UILabel *label = [[UILabel alloc]initWithFrame:CGRectMake(10, 10, 100, 200)];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
